@@ -2,7 +2,7 @@
 
 ## Set up
 
-Python works with nodemon https://github.com/remy/nodemon. To run python with nodemon install nodemon with `npm install -g nodemon`. Then run `nodemon --execu "python" ./myfile.py` in the directory where `myfile.py` lives.
+Python works with nodemon https://github.com/remy/nodemon. To run python with nodemon install nodemon with `npm install -g nodemon`. Then run `nodemon --execu "python" ./myfile.py` in the directory where `myfile.py` lives. To stop nodemon you can click `ctrl + c` in the terminal window.
 
 ## References
 
