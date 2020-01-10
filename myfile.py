@@ -1,7 +1,7 @@
 # 1 input
-#print("Hello! What's your name?")
-#name = input("What's your name?\n")
-#print("Welcome to my Python program",  name)
+# print("Hello! What's your name?")
+# name = input("What's your name?\n")
+# print("Welcome to my Python program", name)
 
 # 2 iteration
 # muppets = ["Kermit", "Miss Piggy", "Gonzo"]
