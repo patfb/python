@@ -1,0 +1,23 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "Playing around with Python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:tkinter": "nodemon --exec \"python\" ./tkinter.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patfb/python.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patfb/python/issues"
+  },
+  "homepage": "https://github.com/patfb/python#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
